@@ -1,6 +1,6 @@
 # A Simple Simulation of a Random Guessing Attack
 
-This repository provides the code used in the experiments reported in the amicus brief by Calo et al. submitted in regards to Case number 3:21-CV-211-RAH-ECM-KCN in the the United States District Court for the Middle District of Alabama, Eastern Division. 
+This repository provides the code used in the experiments reported in an amicus brief of data privacy experts.
 
 To execute the code, either clone the repository or download it as a zip file. In the repository where you downloaded the code, run 
 
